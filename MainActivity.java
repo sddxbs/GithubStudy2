@@ -1,4 +1,4 @@
-package com.l.androidstudy0804a;
+
 
 import android.content.ComponentName;
 
