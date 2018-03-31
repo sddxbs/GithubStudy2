@@ -7,7 +7,7 @@ import android.content.ComponentName;
 
 import com.l.anddroidstudy0804b.IMyAidlInterface;
 
-public class MainActivity extends AppCompatActivity {
+
 
     private MyConn conn;
     private IMyAidlInterface.Stub myBinder;
