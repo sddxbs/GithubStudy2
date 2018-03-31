@@ -11,9 +11,7 @@ import com.l.anddroidstudy0804b.IMyAidlInterface;
 
     private MyConn conn;
     private IMyAidlInterface.Stub myBinder;
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+
         setContentView(R.layout.activity_main);
     }
     public void ok(View view){
